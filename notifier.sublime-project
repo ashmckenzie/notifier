@@ -1,0 +1,22 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/ash/Personal/notifier",
+      "file_exclude_patterns": [
+        "*.sublime-*",
+        ".tags"
+      ],
+      "folder_exclude_patterns": [
+        ".idea",
+        "coverage",
+        "reports",
+        "tmp",
+        "javascripts/generated",
+        ".zeus.sock",
+        "doc",
+        "log"
+      ]
+		}
+	]
+}

@@ -1,0 +1,1792 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"val",
+				"valid_request_sources"
+			],
+			[
+				"no",
+				"not_interested_in_metrics"
+			],
+			[
+				"in",
+				"interested_in_metrics"
+			],
+			[
+				"tar",
+				"target_label"
+			],
+			[
+				"ttv",
+				"ttv_response"
+			],
+			[
+				"revers",
+				"reversed_charges"
+			],
+			[
+				"ad",
+				"adult_count"
+			],
+			[
+				"ean",
+				"ean_property"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"qff",
+				"qff_strategy"
+			],
+			[
+				"po",
+				"points_per_dollar"
+			],
+			[
+				"cal",
+				"calculate_total"
+			],
+			[
+				"is_",
+				"is_qff_partner"
+			],
+			[
+				"am",
+				"amount"
+			],
+			[
+				"caln",
+				"calculated_bonus"
+			],
+			[
+				"topd",
+				"top_deal_campaign"
+			],
+			[
+				"top",
+				"top_deal_campaign"
+			],
+			[
+				"to",
+				"top_deal_campaign"
+			],
+			[
+				"on",
+				"one_hundred_dollars"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"capr",
+				"capybara"
+			],
+			[
+				"sel",
+				"selector"
+			],
+			[
+				"Propert",
+				"PropertyCardElement"
+			],
+			[
+				"capy",
+				"capybara_element"
+			],
+			[
+				"cap",
+				"capybara_element"
+			],
+			[
+				"Property",
+				"PropertyCardsElement"
+			],
+			[
+				"curr",
+				"currentIndex"
+			],
+			[
+				"avail",
+				"availability"
+			],
+			[
+				"roo",
+				"room_type_element"
+			],
+			[
+				"per",
+				"persistState"
+			],
+			[
+				"new",
+				"new_zealand_location"
+			],
+			[
+				"total_occ",
+				"total_number_of_occupants"
+			],
+			[
+				"req",
+				"request_info"
+			],
+			[
+				"hotel_",
+				"hotel_id_list"
+			],
+			[
+				"availb",
+				"available_offer"
+			],
+			[
+				"should",
+				"should_receive"
+			],
+			[
+				"mel",
+				"melbourne_aus"
+			],
+			[
+				"melbourne_",
+				"melbourne_aus"
+			],
+			[
+				"melbou",
+				"melbourne_aus"
+			],
+			[
+				"me",
+				"melbourne_usa"
+			],
+			[
+				"inventory",
+				"inventory_provider"
+			],
+			[
+				"Inven",
+				"InventoryProvider"
+			],
+			[
+				"In",
+				"InventoryProvider"
+			],
+			[
+				"inve",
+				"inventory_provider"
+			],
+			[
+				"inv",
+				"inventory_provider"
+			],
+			[
+				"des",
+				"destination_search"
+			],
+			[
+				"prop",
+				"property"
+			],
+			[
+				"act",
+				"activity_feed"
+			],
+			[
+				"Act",
+				"activity"
+			],
+			[
+				"rel",
+				"related_descriptor"
+			],
+			[
+				"P",
+				"Property"
+			],
+			[
+				"fee",
+				"feed_obj"
+			],
+			[
+				"ra",
+				"rails_env"
+			],
+			[
+				"Ac",
+				"ActivityMonitor"
+			],
+			[
+				"inc",
+				"include_production_envs"
+			],
+			[
+				"app",
+				"apply_command"
+			],
+			[
+				"End",
+				"EngineYard"
+			],
+			[
+				"environments",
+				"environments"
+			],
+			[
+				"en",
+				"engineyard"
+			],
+			[
+				"prm",
+				"promotion_b"
+			],
+			[
+				"pr",
+				"promotion"
+			],
+			[
+				"Offer",
+				"OfferByDate"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 170.0,
+		"selected_items":
+		[
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"close a",
+				"File: Close All"
+			],
+			[
+				"open",
+				"Git: Open Modified Files"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"align",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"close all",
+				"File: Close All"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"git bame",
+				"Git: Blame"
+			],
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"git bla",
+				"Git: Blame"
+			],
+			[
+				"tidyt",
+				"Tidy HTML"
+			],
+			[
+				"upgrae",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"gitl",
+				"Git: Log Current File"
+			],
+			[
+				"git lo",
+				"Git: Log Current File"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"new fi",
+				"File: New File Relative to Current View"
+			],
+			[
+				"it log",
+				"Git: Log All"
+			],
+			[
+				"git b",
+				"Git: Blame"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Settings – User"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"delet",
+				"Git: Delete Branch"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"JSON",
+				"Set Syntax: JSON"
+			],
+			[
+				"bea",
+				"BeautifyRuby"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"JSO",
+				"Set Syntax: JSON"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"it blame",
+				"Git: Blame"
+			],
+			[
+				"bame",
+				"Git: Blame"
+			],
+			[
+				"git  bla",
+				"Git: Blame"
+			],
+			[
+				"elete",
+				"File: Delete"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"renae",
+				"File: Rename"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"upgad",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upgrad",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"git his",
+				"Git: Commit history"
+			],
+			[
+				"checkout",
+				"Git: Checkout Current File"
+			],
+			[
+				"renm",
+				"File: Rename"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"glame",
+				"Git: Blame"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Snippet: 	",
+				"Snippet: html"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"git comm",
+				"Git: Commit history"
+			],
+			[
+				"git",
+				"Git: Commit history"
+			],
+			[
+				"renme",
+				"File: Rename"
+			],
+			[
+				"toggle",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"sidbar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"bla",
+				"Git: Blame"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list page",
+				"Package Control: List Packages"
+			],
+			[
+				"git blam",
+				"Git: Blame"
+			],
+			[
+				"syntaru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"gt bla",
+				"Git: Blame"
+			],
+			[
+				"upr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"xml",
+				"Snippet: XML Processing Instruction"
+			],
+			[
+				"comb",
+				"Sort via CSScomb"
+			],
+			[
+				"css c",
+				"Sort via CSScomb"
+			],
+			[
+				"css",
+				"Sort via CSScomb"
+			],
+			[
+				"git an",
+				"Git: Toggle Annotations"
+			],
+			[
+				"anno",
+				"Git: Toggle Annotations"
+			],
+			[
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"ct",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"cta",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"ctags",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"tidt",
+				"Tidy HTML"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				":s",
+				":w - Save"
+			],
+			[
+				":undo",
+				"Tag: Remove All Attributes From Tags in Document"
+			],
+			[
+				"packag",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"oack",
+				"Package Control: Install Package"
+			],
+			[
+				"packge i",
+				"Package Control: Install Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 463.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ash/Personal/highlander/app/controllers/users_controller.rb",
+		"/Users/ash/Personal/highlander/app/views/users/show.html.erb",
+		"/Users/ash/Personal/highlander/app/assets/stylesheets/user.css.sass",
+		"/Users/ash/Personal/highlander/app/decorators/user_decorator.rb",
+		"/Users/ash/Personal/highlander/app/decorators/achievement_decorator.rb",
+		"/Users/ash/Personal/highlander/app/views/shared/_achievement.html.erb",
+		"/Users/ash/Personal/highlander/app/models/queries/achievements_and_badge_takeup_for_user.rb",
+		"/Users/ash/Personal/highlander/app/views/shared/_achievements.html.erb",
+		"/Users/ash/Personal/highlander/app/models/achievement.rb",
+		"/Users/ash/Personal/highlander/app/views/shared/_badge.html.erb",
+		"/Users/ash/Personal/highlander/app/models/badge.rb",
+		"/Users/ash/Personal/highlander/app/models/achievement_calculator/base.rb",
+		"/Users/ash/Personal/highlander/app/models/user.rb",
+		"/Users/ash/Personal/highlander/app/models/queries/running_leaderboard.rb",
+		"/Users/ash/Personal/highlander/app/models/queries/user_metric_totals.rb",
+		"/Users/ash/Personal/highlander/app/controllers/welcome_controller.rb",
+		"/Users/ash/Personal/highlander/app/models/queries/badges_for_user.rb",
+		"/Users/ash/Personal/highlander/config/routes.rb",
+		"/Users/ash/Personal/highlander/app/controllers/badges_controller.rb",
+		"/Users/ash/Personal/highlander/app/views/shared/_badges.html.erb",
+		"/Users/ash/Personal/highlander/app/models/errors.rb",
+		"/Users/ash/Personal/highlander/app/models/payload_validators/base.rb",
+		"/Users/ash/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/ash/Personal/highlander/app/models/queries/achievements_and_badges.rb",
+		"/Users/ash/Personal/highlander/highlander.sublime-project",
+		"/Users/ash/Personal/highlander/db/data_migrations/20130413162442_add_github_issue_opened_and_closed_metrics.rb",
+		"/Users/ash/Personal/highlander/db/data_migrations/20130413174108_add_github_issue_badges.rb",
+		"/Users/ash/Hooroo/highlander/app/assets/stylesheets/common/structure.css.sass",
+		"/Users/ash/Hooroo/highlander/app/assets/stylesheets/common/widgets.css.sass",
+		"/Users/ash/Hooroo/highlander/app/assets/stylesheets/user.css.sass",
+		"/Users/ash/Hooroo/highlander/app/views/users/show.html.erb",
+		"/Users/ash/Hooroo/highlander/app/views/layouts/application.html.erb",
+		"/Users/ash/Hooroo/highlander/app/views/shared/_badge.html.erb",
+		"/Users/ash/Hooroo/highlander/app/assets/javascripts/user.js.coffee",
+		"/Users/ash/Hooroo/highlander/app/assets/stylesheets/meta/constants.css.sass",
+		"/Users/ash/Hooroo/highlander/app/assets/stylesheets/common/ranking.css.sass",
+		"/Users/ash/Hooroo/highlander/app/assets/stylesheets/application.css.sass",
+		"/Users/ash/Hooroo/highlander/app/controllers/welcome_controller.rb",
+		"/Users/ash/Hooroo/highlander/app/models/queries/running_leaderboard.rb",
+		"/Users/ash/Hooroo/highlander/db/seeds.rb",
+		"/Users/ash/Hooroo/highlander/app/controllers/api/events_controller.rb",
+		"/Users/ash/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/ash/Hooroo/highlander/app/models/event_observer.rb",
+		"/Users/ash/Hooroo/highlander/db/migrate/20130228032126_create_users.rb",
+		"/Users/ash/Hooroo/highlander/lib/tasks/twitter.thor",
+		"/Users/ash/Hooroo/highlander/app/controllers/api_controller.rb",
+		"/Users/ash/Hooroo/highlander/app/models/achievement_calculator/twitter_mention.rb",
+		"/Users/ash/Hooroo/highlander/app/models/achievement_calculator/base.rb",
+		"/Users/ash/Hooroo/highlander/app/models/user.rb",
+		"/Users/ash/Hooroo/highlander/app/models/achievement.rb",
+		"/Users/ash/Hooroo/highlander/app/models/event.rb",
+		"/Users/ash/Hooroo/highlander/app/decorators/user_decorator.rb",
+		"/Users/ash/Hooroo/highlander/app/views/welcome/index.html.erb",
+		"/Users/ash/Hooroo/highlander/Gemfile",
+		"/Users/ash/Hooroo/highlander/app/controllers/api/adapters/github_controller.rb",
+		"/Users/ash/Hooroo/highlander/app/controllers/application_controller.rb",
+		"/Users/ash/Hooroo/highlander/app/models/query_objects/metric_totals.rb",
+		"/Users/ash/Hooroo/highlander/app/assets/javascripts/application.js",
+		"/Users/ash/Hooroo/highlander/app/controllers/api/adapter_controller.rb",
+		"/private/tmp/test.json",
+		"/Users/ash/Hooroo/highlander/config/initializers/string_extras.rb",
+		"/Users/ash/Hooroo/highlander/lib/string_extras.rb",
+		"/Users/ash/Hooroo/highlander/db/migrate/20130315074312_add_earns_points_to_users.rb",
+		"/Users/ash/Hooroo/highlander/db/migrate/20130315045547_add_enabled_to_users.rb",
+		"/Users/ash/Hooroo/highlander/config/application.rb",
+		"/Users/ash/Hooroo/highlander/config/environments/production.rb",
+		"/Users/ash/Hooroo/highlander/config/environments/development.rb",
+		"/Users/ash/Hooroo/highlander/app/models/metric.rb",
+		"/Users/ash/Hooroo/highlander/db/migrate/20130314212309_add_preferred_email_to_users.rb",
+		"/Users/ash/Hooroo/highlander/db/migrate/20130314102403_add_emails_to_user.rb",
+		"/Users/ash/Hooroo/highlander/app/assets/stylesheets/badges.css.sass",
+		"/Users/ash/Hooroo/highlander/app/assets/stylesheets/app.css.sass",
+		"/Users/ash/Hooroo/highlander/app/controllers/users_controller.rb",
+		"/Users/ash/Hooroo/dashboard/jobs/kpi_targets.rb",
+		"/Users/ash/Hooroo/dashboard/dashboards/kpi-targets.erb",
+		"/Users/ash/Hooroo/dashboard/lib/kpi_targets.rb",
+		"/Users/ash/Hooroo/dashboard/config/config.yml",
+		"/Users/ash/Hooroo/dashboard/jobs/jenkins.rb",
+		"/Users/ash/Hooroo/dashboard/assets/javascripts/application.coffee",
+		"/Users/ash/Hooroo/dashboard/Gemfile",
+		"/Users/ash/Hooroo/dashboard/lib/json_get.rb",
+		"/Users/ash/Hooroo/dashboard/lib/date_utils.rb",
+		"/Users/ash/Hooroo/dashboard/widgets/meter/meter.html",
+		"/tmp/crontab.jkN0dhIrAW",
+		"/Users/ash/Hooroo/dashboard/dashboards/jetstar-analytics.erb",
+		"/Users/ash/Hooroo/dashboard/jobs/google_analytics.rb",
+		"/Users/ash/Hooroo/dashboard/.gitignore",
+		"/Users/ash/Hooroo/dashboard/lib/date_utils",
+		"/Users/ash/Hooroo/dashboard/jobs/kaching.rb",
+		"/Users/ash/Hooroo/dashboard/dashboards/monitoring.erb",
+		"/Users/ash/Hooroo/hotels/config/environments/development.rb",
+		"/Users/ash/Hooroo/hotels/lib/tasks/one_off.rake",
+		"/Users/ash/Hooroo/hotels/app/models/cancellation_policy.rb",
+		"/Users/ash/Hooroo/hotels/spec/models/booking_inventory/local/booking_change_spec.rb",
+		"/Users/ash/Hooroo/hotels/app/models/reservation.rb",
+		"/Users/ash/Hooroo/hotels/spec/support/blueprints.rb",
+		"/Users/ash/Hooroo/hotels/app/models/booking_inventory/local/booking_change.rb",
+		"/Users/ash/Hooroo/hotels/app/models/bookings/service/command_strategy/authorise_commands.rb",
+		"/Users/ash/Hooroo/hotels/app/models/bookings/service/command/authorise_payment.rb",
+		"/Users/ash/Hooroo/hotels/Gemfile",
+		"/Users/ash/Hooroo/hotels/app/controllers/consumer/bookings_controller.rb",
+		"/Users/ash/Hooroo/hotels/app/controllers/consumer/property_controller.rb",
+		"/Users/ash/Hooroo/hotels/app/models/bookings/qff_claim.rb",
+		"/Users/ash/Hooroo/hotels/app/reporters/qff_points_earned/eligible_booking_staker.rb",
+		"/Users/ash/Hooroo/hotels/cookbooks/cron/recipes/default.rb",
+		"/Users/ash/Hooroo/hotels/lib/tasks/reports.rake",
+		"/Users/ash/Hooroo/hotels/app/controllers/extranet/booking_changes_controller.rb",
+		"/Users/ash/Hooroo/hotels/config/routes.rb",
+		"/Users/ash/Hooroo/hotels/app/views/consumer/property/show.html.erb",
+		"/Users/ash/Hooroo/hotels/deploy/before_symlink.rb",
+		"/Users/ash/Hooroo/hotels/deploy/before_migrate.rb",
+		"/Users/ash/Hooroo/hotels/app/models/bookings/service/command_strategy/channel_manager.rb",
+		"/Users/ash/Hooroo/hotels/lib/paper_trail_archiver.rb",
+		"/Users/ash/Hooroo/hotels/app/models/property.rb",
+		"/Users/ash/Hooroo/hotels/lib/activity_feed/base.rb",
+		"/Users/ash/Hooroo/hotels/config/initializers/stethoscope.rb",
+		"/Users/ash/Hooroo/hotels/cookbooks/postgresql/recipes/replication.rb",
+		"/Users/ash/Hooroo/hotels/cookbooks/postgresql/templates/default/remote_replica_tunnel.initd.erb",
+		"/Users/ash/Hooroo/hotels/lib/tasks/versions_archive.rake",
+		"/Users/ash/Hooroo/hotels/config/application.rb",
+		"/Users/ash/Hooroo/hotels/app/models/feature.rb",
+		"/Users/ash/Hooroo/hotels/lib/activity_feed/property/booked.rb",
+		"/Users/ash/Hooroo/hotels/cookbooks/redis/attributes/default.rb",
+		"/Users/ash/Hooroo/hotels/app/mailers/consumer/booking_mailer.rb",
+		"/Users/ash/Hooroo/hotels/cookbooks/redis/recipes/default.rb",
+		"/Users/ash/Hooroo/hotels/cookbooks/redis/templates/default/redis.conf.erb",
+		"/Users/ash/Hooroo/hotels/app/models/bookings/booking.rb",
+		"/Users/ash/Hooroo/hotels/cookbooks/config/attributes/database.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"*css*",
+			"",
+			"-spec/,*.rb",
+			"-spec/",
+			"",
+			"config/",
+			"",
+			"*.rb",
+			"",
+			"-spec/",
+			"",
+			"-spec/,-db/",
+			"",
+			"-db/",
+			"",
+			"-spec/,-db/,*.rb",
+			"-spec/,-db/",
+			"-spec/,-db/,*.rb",
+			"-spec/,-db/",
+			"-spec/,-db/,*.rb",
+			"-spec/,*.rb",
+			"*.rb",
+			"",
+			"cookbooks/",
+			"",
+			"*.rake",
+			"",
+			"-spec/,-db/,*.rb",
+			"-spec/,*.rb",
+			"*.rb",
+			"",
+			"-spec/,-db/,*.rb",
+			"-spec/*,*.rb",
+			"-spec/*",
+			"",
+			"spec/",
+			"",
+			"-spec/,*.rb",
+			"-spec/",
+			"",
+			"-spec/,-db/",
+			"",
+			"*.rb",
+			"",
+			"-spec/,-db/",
+			"",
+			"-spec/,-db/",
+			"-spec/",
+			"",
+			"spec/",
+			"",
+			"spec/*",
+			"",
+			"-spec/",
+			"",
+			"/Users/ash/Hooroo/hotels/spec/acceptance/requests/extranet/booking_dashboard",
+			"spec/*",
+			"*.rb",
+			"",
+			"db/migrate/",
+			"db/migrate",
+			"",
+			"-spec/,-db/migrate/",
+			"-spec,-db/migrate",
+			"-spec/*,-db/migrate",
+			"-spec/*",
+			"",
+			"spec/*",
+			"",
+			"*.rb",
+			"*.yml",
+			"",
+			"*.rb",
+			"",
+			"-spec/,*.rb",
+			"-spec/*",
+			"spec/*",
+			"-spec/*",
+			"",
+			"*coffee*",
+			"*js*",
+			"",
+			"*coffee*",
+			"",
+			"-spec/*",
+			"-spec/*,*.rb",
+			"-spec/*",
+			"-spec/*,*.rb",
+			"-spec/*",
+			"",
+			"*ean*",
+			"spec/*",
+			"-spec/*",
+			"",
+			"*.rb",
+			"",
+			"-spec/*",
+			"",
+			"*.rb",
+			"",
+			"spec/*",
+			"",
+			"*.rb",
+			"",
+			"app/models/*",
+			"",
+			"*.rb",
+			"",
+			"/Users/ash/Hooroo/hotels/app/models/inventory",
+			"",
+			"spec/models/*",
+			"spec/modles/*",
+			"",
+			"spec/*",
+			"",
+			"db/migrate/*",
+			"db/migrations/*",
+			"",
+			"-spec/*",
+			"*js*",
+			"",
+			"*js.coffee*",
+			"-spec/*,*coffee*",
+			"-spec/*,*.rb",
+			"-spec/*",
+			"",
+			"cookbooks/*"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"badge-details",
+			"with_badge_takeup",
+			"RunningLe",
+			"with_badge_takeup",
+			"takeup",
+			"SUM",
+			"InvalidMetric",
+			"relation",
+			"RunningLeaderboard",
+			"badge-details",
+			"\\.badges",
+			"main-column",
+			"\\$phone",
+			"not-phone",
+			"sidebar",
+			"total-score",
+			"running-score",
+			"child",
+			"first",
+			"unlocked",
+			"these",
+			"these ",
+			"running-score",
+			"theserif",
+			"total-badges",
+			"scores",
+			"sidebar",
+			"summary",
+			"main-column",
+			"badge-descriptions",
+			"badge-details",
+			"hover",
+			"outer-container",
+			"container",
+			"total-badges",
+			"\\.metrics",
+			"sidebar",
+			".scores",
+			"\\.summary",
+			"float: left",
+			"float",
+			"total-score",
+			"Bad\\!",
+			",",
+			"new_event_for_user",
+			"90px",
+			"total-score",
+			"email = ",
+			"turbolinks",
+			"master",
+			"Git H",
+			"About",
+			"About 12",
+			"bour",
+			"be awe",
+			"favi",
+			"current_user",
+			"Highlander",
+			"ttv",
+			"curtain",
+			"subscribe_customers_to_mailing_lists",
+			"count_entries_in_activity_feed",
+			"never_logged_in",
+			"responsys_opt_out",
+			"responsys_fix",
+			"locations_from_existing_properties",
+			"remove_duplicate_properties",
+			"ensure_main_image",
+			"slug_tags",
+			"load_tags",
+			"create_hamilton_island_inspire_card",
+			"set_rate_booleans_to_false_if_null",
+			"destroy_dupe_hotels",
+			"reprocess_non_jpg_assets",
+			"all_nights_penalty",
+			"grep",
+			"reversed_line_items",
+			"Cancella",
+			"ancellation_penalty_applies",
+			"point_in_time",
+			"Timecop",
+			"cancellation_penalty_applies",
+			"all_nights_penalty",
+			"pry",
+			"make_offer",
+			"make_booking",
+			"cancellation_policy",
+			"make_booking",
+			"reser",
+			"cancellation_policy_id",
+			"cancellation_policy",
+			"cancella",
+			"make_named_policy",
+			"cancell",
+			"make_booking",
+			"apply_cancellation_penalty",
+			"remove_nights",
+			"apply_line_items",
+			"reversed_line_item",
+			"reversed_line_items",
+			"apply",
+			"apply_cancellation_penalty",
+			"cancellation_penalty",
+			"all_nights_penalty",
+			"cancellation_penalty",
+			"all_nights_penalty",
+			"AuthorisePayment",
+			"Pre-auth",
+			"cancellation_policy",
+			"offer_details_for",
+			"total_cost_of_stay_gross",
+			"offer_details_for",
+			"to_offer_details",
+			"reversed_line_items",
+			"reversed_nights",
+			"reports:qff",
+			"report",
+			"pub",
+			"current_effective_line_items",
+			"reversible_line_items",
+			"remove_nights",
+			"apply_line_items",
+			"all_nights_penalty",
+			"resque",
+			"stop_",
+			"self.perform",
+			"jasmine",
+			"spec"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			",\\n",
+			"customers",
+			"\\n:",
+			"LineItemCategory.price_adjustment",
+			"LineItemCategory.fee",
+			"LineItemCategory.hotel_charge",
+			"\\n",
+			"make_from_net",
+			"total_points",
+			"bonus_points",
+			"base_points",
+			"calculate_total_points",
+			"calculate_bonus_points",
+			"calculate_base_points",
+			"isQffPartner",
+			"is_qff_partner",
+			"QffStrategy",
+			"",
+			"includeDetails=true&sort=OVERALL_VALUE",
+			"require 'ruby-progressbar'",
+			"require 'progressbar'",
+			"10",
+			"api.eancdn.com",
+			"https://api.eancdn.com",
+			"api.eancdn.com",
+			"infant",
+			"",
+			"minorRev=20",
+			"\" => ",
+			"\" =>",
+			" =>",
+			"HotelAvailability",
+			"ean",
+			"find_all_offers_for_property",
+			",",
+			"->",
+			"australia",
+			"ean",
+			"subject.perform",
+			"subject.",
+			"InventoryProvider",
+			"inventory_provider_code",
+			"local_locations",
+			"config.options",
+			"o.options",
+			"options",
+			"cheapest_candidate_offers_for_properties",
+			"row['\\1']",
+			"row.['\\1']",
+			"FIX",
+			"BW;97207",
+			"booking",
+			"Booking",
+			"ssh",
+			"class}:",
+			"file_glob",
+			"log",
+			"input",
+			"process",
+			"Property.full_text_search",
+			"",
+			"estinationLocation",
+			"location",
+			"pathAndQueryString",
+			"make_unsaved",
+			"",
+			"<%= self.description %>",
+			"Feature.active\\?",
+			"RedisConfig::DB_FEATURE",
+			"RedisConfig::DB_AB_SPLIT",
+			"RedisConfig::DB_ACTIVITY_FEED",
+			"RedisConfig::DB_CACHING",
+			"RedisConfig::DB_RESQUE",
+			"availability_for_properties_options",
+			"\"",
+			"caching_options",
+			"load_the_config",
+			"DEFAULT_CACHE_TIME",
+			"https://does-not-matter:does-not-matter@ud-uat.pegs.com",
+			"does-not-matter:does-not-matter",
+			"SEARCH_CONFIG",
+			"BASE_CONFIG",
+			"BASE_HCD_CONFIG",
+			"BASE_CONFIG",
+			"user_search_without_location",
+			"user_search_with_location,",
+			"",
+			"\"",
+			"from_string_to_xml",
+			"user_search",
+			"availability_for_properties",
+			"opts",
+			"MAXIMUM_BOOKING_VARIANCE_IN_CENTS",
+			"branded_scoped_cache",
+			"current_subject",
+			"find_first_for_offer",
+			"oneself",
+			"cancelled_at",
+			"starting_page",
+			"join_page",
+			"Cei7em8heixofoi1ahhu",
+			"mapZoomLevelObjId",
+			"mapZoomLevelCookieName",
+			"objectId",
+			"asset_path $1\" %>",
+			"asset_path $1 \" %>",
+			"asset_path $1 \" %>)",
+			"<%= asset_path \"fan_page/img",
+			"recipient",
+			"image_url",
+			"/assets/fan_page/css/",
+			"/assets/fan_page/js/",
+			"/assets/fan_page/img/",
+			"/assets/fan_page/js/",
+			"/assets/fan_page/css/",
+			"/assets/fan_page/css",
+			"/assets/css\\/",
+			"/assets/fan_page/img",
+			"/fan_page/img",
+			"fan_page/img",
+			"brand_name",
+			"url_that_wont_match",
+			"brand_name",
+			"Voided",
+			"voided_at",
+			"void",
+			"voided",
+			"void"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.tests":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"_achie",
+				"app/views/shared/_achievement.html.erb"
+			],
+			[
+				"_ach",
+				"app/views/shared/_achievements.html.erb"
+			],
+			[
+				"achie",
+				"app/models/achievement.rb"
+			],
+			[
+				"ach",
+				"app/models/achievement.rb"
+			],
+			[
+				"achiev",
+				"app/models/achievement.rb"
+			],
+			[
+				"_badge",
+				"app/views/shared/_badge.html.erb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"modelbad",
+				"app/models/badge.rb"
+			],
+			[
+				"app/models/queries/badges_for_user.rb",
+				"app/models/queries/badges_for_user.rb"
+			],
+			[
+				"badge",
+				"app/models/badge.rb"
+			],
+			[
+				"show.",
+				"app/views/users/show.html.erb"
+			],
+			[
+				"usercont",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"bad",
+				"app/views/shared/_badge.html.erb"
+			],
+			[
+				"wid",
+				"app/assets/stylesheets/common/widgets.css.sass"
+			],
+			[
+				"str",
+				"app/assets/stylesheets/common/structure.css.sass"
+			],
+			[
+				"_bad",
+				"app/views/shared/_badge.html.erb"
+			],
+			[
+				"lay",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			],
+			[
+				"see",
+				"db/seeds.rb"
+			],
+			[
+				"evencon",
+				"app/controllers/api/events_controller.rb"
+			],
+			[
+				"obser",
+				"app/models/event_observer.rb"
+			],
+			[
+				"api",
+				"app/controllers/api_controller.rb"
+			],
+			[
+				"eve",
+				"app/controllers/api/events_controller.rb"
+			],
+			[
+				"user.",
+				"app/models/user.rb"
+			],
+			[
+				"weco",
+				"app/controllers/welcome_controller.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"apico",
+				"app/controllers/api_controller.rb"
+			],
+			[
+				"git",
+				"app/controllers/api/adapters/github_controller.rb"
+			],
+			[
+				"gith",
+				"app/controllers/api/adapters/github_controller.rb"
+			],
+			[
+				"events",
+				"app/controllers/api/events_controller.rb"
+			],
+			[
+				"appicon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"metrto",
+				"app/models/query_objects/metric_totals.rb"
+			],
+			[
+				"apicon",
+				"app/controllers/api_controller.rb"
+			],
+			[
+				"apiad",
+				"app/controllers/api/adapter_controller.rb"
+			],
+			[
+				"github",
+				"app/controllers/api/adapters/github_controller.rb"
+			],
+			[
+				"stringex",
+				"lib/string_extras.rb"
+			],
+			[
+				"githubc",
+				"app/controllers/api/adapters/github_controller.rb"
+			],
+			[
+				"evencontr",
+				"app/controllers/api/events_controller.rb"
+			],
+			[
+				"earns",
+				"db/migrate/20130315074312_add_earns_points_to_users.rb"
+			],
+			[
+				"apic",
+				"app/controllers/api_controller.rb"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"db/migrate/20130315045547_add_enabled_to_users.rb",
+				"db/migrate/20130315045547_add_enabled_to_users.rb"
+			],
+			[
+				"deve",
+				"config/environments/development.rb"
+			],
+			[
+				"applrb",
+				"config/application.rb"
+			],
+			[
+				"prod",
+				"config/environments/production.rb"
+			],
+			[
+				"inde",
+				"app/views/welcome/index.html.erb"
+			],
+			[
+				"add_",
+				"db/migrate/20130314102403_add_emails_to_user.rb"
+			],
+			[
+				"add_pre",
+				"db/migrate/20130314212309_add_preferred_email_to_users.rb"
+			],
+			[
+				"gitcon",
+				"app/controllers/api/adapters/github_controller.rb"
+			],
+			[
+				"evecon",
+				"app/controllers/api/events_controller.rb"
+			],
+			[
+				"metr",
+				"app/models/metric.rb"
+			],
+			[
+				"conf",
+				"config/config.yml"
+			],
+			[
+				"applco",
+				"assets/javascripts/application.coffee"
+			],
+			[
+				"json",
+				"lib/json_get.rb"
+			],
+			[
+				"dateut",
+				"lib/date_utils.rb"
+			],
+			[
+				"date",
+				"lib/date_utils.rb"
+			],
+			[
+				"customer",
+				"app/models/customer.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"devecontr",
+				"app/controllers/developer_controller.rb"
+			],
+			[
+				"oneo",
+				"lib/tasks/one_off.rake"
+			],
+			[
+				"blue",
+				"spec/support/blueprints.rb"
+			],
+			[
+				"can",
+				"app/models/cancellation_policy.rb"
+			],
+			[
+				"reser",
+				"app/models/reservation.rb"
+			],
+			[
+				"bookchangespec",
+				"spec/models/booking_inventory/local/booking_change_spec.rb"
+			],
+			[
+				"authorisepayment",
+				"app/models/bookings/service/command/authorise_payment.rb"
+			],
+			[
+				"bookchange",
+				"app/models/booking_inventory/local/booking_change.rb"
+			],
+			[
+				"app/models/booking_inventory/local/booking_change.rb",
+				"app/models/booking_inventory/local/booking_change.rb"
+			],
+			[
+				"qff_claim",
+				"app/models/bookings/qff_claim.rb"
+			],
+			[
+				"eligiblebookingstaker",
+				"app/reporters/qff_points_earned/eligible_booking_staker.rb"
+			],
+			[
+				"reports.ra",
+				"lib/tasks/reports.rake"
+			],
+			[
+				"conbookcontr",
+				"app/controllers/consumer/bookings_controller.rb"
+			],
+			[
+				"bookcontr",
+				"app/controllers/consumer/bookings_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"conspropshow",
+				"app/views/consumer/property/show.html.erb"
+			],
+			[
+				"bookchangecontr",
+				"app/controllers/extranet/booking_changes_controller.rb"
+			],
+			[
+				"bookingchange",
+				"app/models/booking_inventory/local/booking_change.rb"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"localbookch",
+				"app/models/booking_inventory/local/booking_change.rb"
+			],
+			[
+				"proper",
+				"app/models/property.rb"
+			],
+			[
+				"replicat",
+				"cookbooks/postgresql/recipes/replication.rb"
+			],
+			[
+				"prop",
+				"app/models/property.rb"
+			],
+			[
+				"application.rb",
+				"config/application.rb"
+			],
+			[
+				"feature",
+				"app/models/feature.rb"
+			],
+			[
+				"redisdef",
+				"cookbooks/redis/attributes/default.rb"
+			],
+			[
+				"bookmail",
+				"app/mailers/consumer/booking_mailer.rb"
+			],
+			[
+				"archrake",
+				"lib/tasks/versions_archive.rake"
+			],
+			[
+				"reports",
+				"lib/tasks/reports.rake"
+			],
+			[
+				"book",
+				"app/models/bookings/booking.rb"
+			],
+			[
+				"booking",
+				"app/models/bookings/booking.rb"
+			],
+			[
+				"redis.",
+				"cookbooks/redis/templates/default/redis.conf.erb"
+			],
+			[
+				"ste",
+				"config/initializers/stethoscope.rb"
+			],
+			[
+				"search_spec",
+				"spec/models/search_spec.rb"
+			],
+			[
+				"search.rb",
+				"app/models/search.rb"
+			],
+			[
+				"conssearchcontroller",
+				"app/controllers/consumer/search_controller.rb"
+			],
+			[
+				"qffst",
+				"app/models/qff_strategy.rb"
+			],
+			[
+				"redisymer",
+				"cookbooks/redis/templates/default/redis.yml.erb"
+			],
+			[
+				"redisco",
+				"lib/redis_config.rb"
+			],
+			[
+				"before_symlink",
+				"deploy/before_symlink.rb"
+			],
+			[
+				"feat",
+				"app/models/feature.rb"
+			],
+			[
+				"conpropshow",
+				"app/views/consumer/property/show.html.erb"
+			],
+			[
+				"conprocontr",
+				"app/controllers/consumer/property_controller.rb"
+			],
+			[
+				"redis",
+				"lib/redis_config.rb"
+			],
+			[
+				"redisconf",
+				"lib/redis_config.rb"
+			],
+			[
+				"hotelsconf",
+				"cookbooks/nginx/templates/default/hotels.conf.erb"
+			],
+			[
+				"robo",
+				"public/robots.txt"
+			],
+			[
+				"nginx",
+				"cookbooks/nginx/templates/default/nginx.conf.erb"
+			],
+			[
+				"datay",
+				"config/database.yml"
+			],
+			[
+				"extra_authorized_keys",
+				"cookbooks/system/templates/default/extra_authorized_keys.erb"
+			],
+			[
+				"app/assets/javascripts/consumer/property/views/image_carousel_view.js.coffee",
+				"app/assets/javascripts/consumer/property/views/image_carousel_view.js.coffee"
+			],
+			[
+				"qffstra",
+				"app/models/qff_strategy.rb"
+			],
+			[
+				"app/controllers/consumer/search_controller.rb",
+				"app/controllers/consumer/search_controller.rb"
+			],
+			[
+				"app/assets/javascripts/consumer/common/views/card.js.coffee",
+				"app/assets/javascripts/consumer/common/views/card.js.coffee"
+			],
+			[
+				"proc",
+				"Procfile"
+			],
+			[
+				"ey.yml",
+				"config/ey.yml"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"applir",
+				"config/application.rb"
+			],
+			[
+				"ey",
+				"config/ey.yml"
+			],
+			[
+				"app/models/booking_inventory/ean/strategy.rb",
+				"app/models/booking_inventory/ean/strategy.rb"
+			],
+			[
+				"call",
+				"app/models/bookings/methods/callbacks.rb"
+			],
+			[
+				"bookingspec",
+				"spec/models/bookings/booking_spec.rb"
+			],
+			[
+				"bookqffcl",
+				"app/models/bookings/qff_claim.rb"
+			],
+			[
+				"reportgenerator",
+				"app/reporters/qff_points_earned/report_generator.rb"
+			],
+			[
+				"report",
+				"lib/tasks/reports.rake"
+			],
+			[
+				"claim",
+				"app/models/bookings/qff_claim.rb"
+			],
+			[
+				"qff",
+				"app/models/bookings/qff_claim.rb"
+			],
+			[
+				"reservationmessagepresenter",
+				"lib/api/reservation_message_presenter.rb"
+			],
+			[
+				"createjsonrep",
+				"app/views/extranet/booking_changes/create.json.rep"
+			],
+			[
+				"create",
+				"app/views/api/pings/create.xml.builder"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true
+}

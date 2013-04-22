@@ -6,3 +6,4 @@
 :renderer: haml
 :stylesheet: sass
 :namespace: Notifier
+:admin_renderer: haml
